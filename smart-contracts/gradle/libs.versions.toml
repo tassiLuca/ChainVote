@@ -3,7 +3,7 @@ junit = "5.10.1"
 log4j = "2.22.1"
 
 [libraries]
-fabric-chaincode-shim = "org.hyperledger.fabric-chaincode-java:fabric-chaincode-shim:2.5.0"
+fabric-chaincode-shim = "org.hyperledger.fabric-chaincode-java:fabric-chaincode-shim:2.5.1"
 genson = "com.owlike:genson:1.6"
 json = "org.json:json:20231013"
 commons-lang = "org.apache.commons:commons-lang3:3.14.0"
